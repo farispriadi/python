@@ -1,6 +1,6 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: Apa Itu Python ?
+category: Pengenalan Python
 order: 1
 ---
 

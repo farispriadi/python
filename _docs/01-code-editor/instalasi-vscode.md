@@ -1,7 +1,7 @@
 ---
-title: Android
-category: Devices
-order: 2
+title: Instalasi Visual Studio Code (VS Code)
+category: Code Editor
+order: 1
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.

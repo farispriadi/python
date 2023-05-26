@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Instalasi Python
+category: Pengenalan Python
 order: 2
 ---
 
