@@ -2,8 +2,8 @@
 # Site
 
 title: Free Programming Labz
-url: "https://long-pig.cloudvent.net"
-baseurl:
+url: "https://farispriadi.github.io/python-tutorial"
+baseurl: "https://farispriadi.github.io/python-tutorial"
 google_analytics_key:
 show_full_navigation: true
 
