@@ -34,7 +34,7 @@ Sehingga menyebabkan Python memunculkan pesan error pada saat dieksekusi.
 
 Hal ini dikarenakan Python bersifat _case sensitive_. Artinya Python adalah bahasa pemrograman yang membedakan antara huruf Kapital dan kecil.
 
-![Case Sensitve](/images/02-sintaks-python/case-sensitive.png)
+![Case Sensitve](images/02-sintaks-python/case-sensitive.png)
 
 Case sensitive Python berlaku juga dengan nama fungsi bawaan dan sintaks Python.
 Ketika fungsi `print` ditulis diwali dengan huruf kapital maka yang terjadi adalah error.
