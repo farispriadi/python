@@ -26,14 +26,14 @@ Namun pada tutorial ini kita akan menggunakan versi web baik untuk desktop atau 
 # Membuat Akun Replit
 
 1. Masuk ke https://replit.com/
-![Replit Home](/images/01-pengenalan-python/replit01.png)
+![Replit Home]({{site.baseurl}}/images/01-pengenalan-python/replit01.png)
 2. Pilih *Sign Up*
-![Replit Sign Up](/images/01-pengenalan-python/replit02.png)
+![Replit Sign Up]({{site.baseurl}}/images/01-pengenalan-python/replit02.png)
 3. Pilih *Continue with Google* 
 4. Masukkan Email , lalu klik _Next_
-![Replit Email](/images/01-pengenalan-python/replit03.png)
+![Replit Email]({{site.baseurl}}/images/01-pengenalan-python/replit03.png)
 5. Masukkan Password Email, lalu klik _Next_
-![Replit password](/images/01-pengenalan-python/replit04.png)
+![Replit password]({{site.baseurl}}/images/01-pengenalan-python/replit04.png)
 6. Jika berhasil maka akan redirect ke laman akun Kamu.
-![Replit Akun](/images/01-pengenalan-python/replit05.png)
+![Replit Akun]({{site.baseurl}}/images/01-pengenalan-python/replit05.png)
 7. Sekarang akun Replit Kamu sudah jadi, selanjutnya kita akan membuat membuat program Python pertama.
