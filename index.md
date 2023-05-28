@@ -2,37 +2,19 @@
 title: Tutorial Dasar Python
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Tutorial ini ditujukan untuk para siswa, mahasiswa dan masyarakat umum yang ingin belajar koding atau secara khusus **BELAJAR PYTHON DARI NOL**. 
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Meskipun teman-teman minimal sudah berada di jenjang SMP keatas, sebenarnya tidak diperlukan latar belakang khusus untuk dapat menggunakan tutorial ini. 
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+Semua orang dapat menggunakan Tutorial ini, selama keinginan dan tekat untuk belajar hal baru itu tetap ada.
 
-### Getting Started
+Bila teman-teman ingin bergabung di komunitas yang lebih interaktif bersama dengan pembelajar yang lain, teman-teman dapat ikut berdiskusi di **Grup Telegram Tips dan Trik Belajar Python untuk Pemula**
 
-Getting a message sent is quick and easy with ChatApp:
+Silakan yang mau bergabung dapat melalui tautan ini.
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+[https://t.me/PythonTipsAndTricks](https://t.me/PythonTipsAndTricks)
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+Salam
 
-### Features
+Faris 
 
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.

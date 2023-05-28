@@ -4,26 +4,39 @@ category: Sintaks Python
 order: 1
 ---
 
-Share images with your friends! Send photos and pictures from your computer, phone or camera.
+Apa yang terjadi jika kode Python di bawah ini dieksekusi ?
 
-> Images are stored until you choose to remove them.
+```python
 
-To share an image:
+x = 5
+print(X)
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick an image
+```
 
-![](//placehold.it/800x600)
+Hasilnya akan error, tepatnya _NameError_. 
 
-Supported types:
+```bash
 
-* JPEG
-* PNG
-* BMP
-* GIF
+Traceback (most recent call last):
+  File "main.py", line 2, in <module>
+    print(X)
+NameError: name 'X' is not defined. Did you mean: 'x'?
 
-Unsupported types:
+```
 
-* SVG
-* WEBP
+Pada contoh diatas, sebuah variable 'x' diisi dengan nilai 5. Kemudian dibaris selanjutnya, dengan menggunakan fungsi `print`, program akan menampilkan nilai dari variable yang diisi sebelumnya.
+
+Ternyata yang dipanggil dalam funsi `print` bukanlah variable 'x', namun 'X' dalam bentuk kapital, yang dianggap berbeda oleh Python.
+
+Python menganggap variabel 'X' dengan kapital, belum didefinisikan sebelumnya.
+
+Sehingga menyebabkan Python memunculkan pesan error pada saat dieksekusi.
+
+Hal ini dikarenakan Python bersifat _case sensitive_. Artinya Python adalah bahasa pemrograman yang membedakan antara huruf Kapital dan kecil.
+
+![Case Sensitve](/images/02-sintaks-python/case-sensitive.png)
+
+Case sensitive Python berlaku juga dengan nama fungsi bawaan dan sintaks Python.
+Ketika fungsi `print` ditulis diwali dengan huruf kapital maka yang terjadi adalah error.
+
+![Case Sensitve](/images/02-sintaks-python/case-sensitive2.png) 

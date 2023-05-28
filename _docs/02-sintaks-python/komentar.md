@@ -1,17 +1,20 @@
 ---
 title: Komentar
 category: Sintaks Python
-order: 4
+order: 2
 ---
 
-Share documents with your friends! Send work or school projects from your computer or phone.
+Komentar atau _Comment_ adalah sinktaks yang digunakan untuk membuat kode Python tidak tereksekusi. Penggunaannya adalah dengan menggunakan tanda #.
 
-To share a document:
+```python
+# Menampilkan nilai 5 pada variabel x
+x = 5
+print(x)
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a document
+```
 
-> Changes made to documents after sending are not saved back, you'll have to get contacts to send you updated versions.
+Pada kode diatas, teks "Menampilkan nilai 5 pada variabel x" tidak akan dieksekusi dikarenakan terdapat tanda # yang menandakan teks tersebut adalah sebuah komentar.
 
-![](//placehold.it/800x600)
+Komentar biasanya digunakan untuk memberi keterangan pada blok kode. Komentar juga biasanya digunakan untuk menghilangkan blok kode yang tidak digunakan sementara agar blok kode tersebut tidak ikut tereksekusi.
+
+![Komentar](/images/02-sintaks-python/komentar.png)

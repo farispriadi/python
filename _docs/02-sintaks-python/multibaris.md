@@ -1,17 +1,34 @@
 ---
 title: Multibaris
 category: Sintaks Python
-order: 3
+order: 4
 ---
 
-Share documents with your friends! Send work or school projects from your computer or phone.
+Satu perintah program atau _statement_ di Python dapat ditulis multi baris.
 
-To share a document:
+Untuk dapat melakukan hal tersebut kita akan mengguanakn _backslash_ (\).
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a document
+Misalnya pengisian variable yang berupa list panjang.
 
-> Changes made to documents after sending are not saved back, you'll have to get contacts to send you updated versions.
+```python
 
-![](//placehold.it/800x600)
+l = [1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000]
+
+```
+
+Penulisan variabel list yang panjang tersebut, juga dapat menjadi multi baris.
+
+```python
+
+l = [1000, \
+     2000, \
+     3000, \
+     4000, \
+     5000, \
+     6000, \
+     7000, \
+     8000]
+
+```
+
+Kedua perintah program tersebut dapat dijalankan tanpa menghasilkan error.

@@ -1,17 +1,60 @@
 ---
 title: Indentasi
 category: Sintaks Python
-order: 2
+order: 3
 ---
 
-Share video to your friends! Send videos from your computer, phone, camera or YouTube.
+Hal lain yang membedakan bahasa pemrograman Python dengan bahasa yang lain adalah penggunaan indentasi.
 
-To share a video:
+Indentasi dalam python adalah bagian kosong pada awal baris kode, yang menjadikan kode terlihat menjorok ke dalam.
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a video or paste a YouTube link
+indentasi dapat menggunakan karakter 1 tab atau 4 spasi, yang menandakan kode tersebut berada dalam satu blok kode.
 
-> Videos can use up a lot of bandwidth so be aware of your mobile data.
+Blok kode adalah sebuah kode yang terdiri dari beberapa perintah program atau _statement_ yang dijadikan satu kelompok.
 
-![](//placehold.it/800x600)
+
+
+
+Berikut contoh satu blok kode.
+
+```python
+
+if 5 > 0:
+    print("5 lebih besar dari 0")
+
+```
+
+atau 
+
+```python
+
+for i in [1,2,3,4,5]:
+    x = i*10
+    print("{}x10 = {}".format(i,x))
+
+```
+
+
+Sedangkan perintah program atau _statement_ adalah instruksi spesifik yang dikirim ke komputer. Perintah program dapat berupa pengisian nilai, pemanggilan fungsi atau pemanggilan kata kunci lainnya.
+
+Contoh satu perintah program.
+
+```python
+
+print("5 lebih besar dari 0")
+
+```
+
+
+### Apa yang terjadi jika dalam satu blok kode tidak terdapat indentasi?
+
+Silakan teman-teman coba copy blok kode di bawah lalu jalankan menggunakan Replit.
+
+
+```python
+
+for i in [1,2,3,4,5]:
+x = i*10
+print("{}x10 = {}".format(i,x))
+
+```
