@@ -1,6 +1,6 @@
 ---
 title: Mengubah Tipe Data Dalam Variable
-category: Variable
-order: 2
+category: Tipe Data
+order: 5
 ---
 
